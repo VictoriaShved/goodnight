@@ -13,3 +13,4 @@ You're in control
 Rid of the monsters inside your head
 Put all your faults to bed
 You can be king again
+(commit 1)
